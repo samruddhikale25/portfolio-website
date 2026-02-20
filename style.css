@@ -232,4 +232,9 @@ section {
   .home-content h1 {
     font-size: 30px;
   }
+
+  .internship .card,
+.certifications .card {
+  border-left: 4px solid #38bdf8;
+}
 }
