@@ -34,7 +34,8 @@ This project is a personal portfolio website developed to showcase my skills, ed
 - Making the website responsive for different devices
 
 ## Live Link
-Will be updated after deployment
+ https://samruddhikale25.github.io/portfolio-website/
 
 ## GitHub Repository Link
+
 https://github.com/samruddhikale25/portfolio-website
